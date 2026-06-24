@@ -1,0 +1,6 @@
+{
+  "name": "SkeletonAuthAndDB",
+  "description": "A minimalist web application with a text input and save mechanism, designed as a foundation for authentication and SQL database integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
