@@ -1,0 +1,13 @@
+type User @table {
+  email: String!
+  displayName: String
+}
+
+type UserData @table {
+  contentText: String!
+  createUserId: String!
+  createTS: Timestamp!
+  updateUserId: String!
+  updateTS: Timestamp!
+  user: User!
+}
